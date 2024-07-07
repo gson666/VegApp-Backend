@@ -1,0 +1,500 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\controllers\\deliveriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:controllers\\deliveriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\services\\productser\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:services\\productser\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\services\\deliveryser\\deliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:services\\deliveryser\\deliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\services\\deliveryser\\ideliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:services\\deliveryser\\ideliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\repositories\\deliveryrep\\deliveryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:repositories\\deliveryrep\\deliveryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\models\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:models\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\repositories\\deliveryrep\\ideliveryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:repositories\\deliveryrep\\ideliveryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\repositories\\productrep\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:repositories\\productrep\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\repositories\\productrep\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:repositories\\productrep\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\dto\\deliverydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:dto\\deliverydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\dto\\deliveryitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:dto\\deliveryitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\repositories\\categoryrep\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:repositories\\categoryrep\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\models\\deliveryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:models\\deliveryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\services\\authser\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:services\\authser\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\services\\authser\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:services\\authser\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\dto\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:dto\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\backend-almog\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC02F79-8231-4BFE-A091-17D7F8752500}|Backend-almog.csproj|solutionrelative:dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Services\\ProductSer\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductSer\\ProductService.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Services\\ProductSer\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductSer\\ProductService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:25:52.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeliveriesController.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Controllers\\DeliveriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DeliveriesController.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Controllers\\DeliveriesController.cs*",
+              "RelativeToolTip": "Controllers\\DeliveriesController.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:15:23.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:13:48.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeliveryService.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Services\\DeliverySer\\DeliveryService.cs",
+              "RelativeDocumentMoniker": "Services\\DeliverySer\\DeliveryService.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Services\\DeliverySer\\DeliveryService.cs",
+              "RelativeToolTip": "Services\\DeliverySer\\DeliveryService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABQAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:07:30.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDeliveryService.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Services\\DeliverySer\\IDeliveryService.cs",
+              "RelativeDocumentMoniker": "Services\\DeliverySer\\IDeliveryService.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Services\\DeliverySer\\IDeliveryService.cs",
+              "RelativeToolTip": "Services\\DeliverySer\\IDeliveryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:07:10.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Repositories\\ProductRep\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRep\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Repositories\\ProductRep\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRep\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:57:03.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Repositories\\ProductRep\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRep\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Repositories\\ProductRep\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRep\\ProductRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:56:40.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeliveryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Repositories\\DeliveryRep\\DeliveryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\DeliveryRep\\DeliveryRepository.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Repositories\\DeliveryRep\\DeliveryRepository.cs",
+              "RelativeToolTip": "Repositories\\DeliveryRep\\DeliveryRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACUAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:46:30.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Repositories\\CategoryRep\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRep\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Repositories\\CategoryRep\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRep\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:45:52.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "DTO\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:44:20.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeliveryItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\DTO\\DeliveryItemDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DeliveryItemDTO.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\DTO\\DeliveryItemDTO.cs",
+              "RelativeToolTip": "DTO\\DeliveryItemDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:44:02.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeliveryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\DTO\\DeliveryDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DeliveryDTO.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\DTO\\DeliveryDTO.cs",
+              "RelativeToolTip": "DTO\\DeliveryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:43:36.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDeliveryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Repositories\\DeliveryRep\\IDeliveryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\DeliveryRep\\IDeliveryRepository.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Repositories\\DeliveryRep\\IDeliveryRepository.cs",
+              "RelativeToolTip": "Repositories\\DeliveryRep\\IDeliveryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:39:19.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Controllers\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SuppliersController.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Controllers\\SuppliersController.cs",
+              "RelativeToolTip": "Controllers\\SuppliersController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwCwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:31:06.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAQwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:31:03.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAQwC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:31:00.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:30:49.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Models\\Supplier.cs",
+              "RelativeToolTip": "Models\\Supplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:30:45.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:30:41.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DeliveryItem.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Models\\DeliveryItem.cs",
+              "RelativeDocumentMoniker": "Models\\DeliveryItem.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Models\\DeliveryItem.cs",
+              "RelativeToolTip": "Models\\DeliveryItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:30:38.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delivery.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Models\\Delivery.cs",
+              "RelativeDocumentMoniker": "Models\\Delivery.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Models\\Delivery.cs",
+              "RelativeToolTip": "Models\\Delivery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:30:35.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:30:31.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserProfileDTO.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\DTO\\UserProfileDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UserProfileDTO.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\DTO\\UserProfileDTO.cs",
+              "RelativeToolTip": "DTO\\UserProfileDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:33:30.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Services\\AuthSer\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthSer\\AuthService.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Services\\AuthSer\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthSer\\AuthService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:32:30.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Services\\AuthSer\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthSer\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Services\\AuthSer\\IAuthService.cs",
+              "RelativeToolTip": "Services\\AuthSer\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:32:25.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:12:46.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\DTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\DTO\\RegisterDTO.cs",
+              "RelativeToolTip": "DTO\\RegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:43:44.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\DTO\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\Backend-almog\\DTO\\CategoryDTO.cs",
+              "RelativeToolTip": "DTO\\CategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:14:06.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
